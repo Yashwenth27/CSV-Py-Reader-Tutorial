@@ -15,7 +15,7 @@ def read_csv_file(file_path):
         #print(details)  
 
 # Example usage:
-file_path = "all_rec.csv"  # Replace 'example.csv' with the path to your CSV file
+file_path = "../BdayFinder/all_rec.csv"  # Replace 'example.csv' with the path to your CSV file
 read_csv_file(file_path)
 
 st.header("Bday 2day!")
